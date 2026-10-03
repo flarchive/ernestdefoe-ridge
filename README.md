@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of ernestdefoe/ridge.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/ridge) or the [upstream repository](https://github.com/ernestdefoe/ridge).
 
-**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/ernestdefoe-ridge/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^2.0`
+**3** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/ernestdefoe-ridge/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-09-12 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-ridge/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-09-12 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-ridge/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-09-13 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-ridge/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/ernestdefoe-ridge.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-ridge.json)
 
